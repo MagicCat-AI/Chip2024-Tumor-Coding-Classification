@@ -1,0 +1,8 @@
+jieba
+langchain
+langchain_community
+langchain_huggingface
+openai
+rank_bm25
+zhipuai
+faiss-cpu
